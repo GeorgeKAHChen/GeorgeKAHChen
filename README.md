@@ -2,6 +2,6 @@
 2. 🇯🇵 Current Location: Sapporo, Hokkaido (Hokkaido University).
 3. 🟰 Major in **Mathematics**, numerical computation, stochastic dynamic system, chaotic analysis.
 4. 🤖️ Also interested in machine learning, statistic learning algorithm, stochastic process and random walks.
-5. 🎵 Love music, part time composer.
-6. 🛫 Love tourism.
+5. 🎵 Love music, part time composer. Learning piano now
+6. 🛫 Love tourism. GOAL: go around the Japan and World
 7. **Py@@on, F@@K U!**
