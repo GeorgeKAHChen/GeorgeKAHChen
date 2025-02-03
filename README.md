@@ -5,3 +5,5 @@
 5. 🎵 Love music, part time composer. Learning piano now
 6. 🛫 Love tourism. GOAL: go around the Japan and World
 7. **Py@@on, F@@K U!**
+
+LONG TIME NO PYTORCH, and I FORGOT most all of them lol
